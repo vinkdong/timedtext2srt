@@ -32,9 +32,10 @@ go install
 ```
 
 - 下载附件安装
-```bash
-
-```
+[Mac M1芯片](https://github.com/vinkdong/timedtext2srt/releases/download/0.1.0/timedtext2srt-darwin-m1)
+[Mac x86_64位](https://github.com/vinkdong/timedtext2srt/releases/download/0.1.0/timedtext2srt-darwin-x86_64)
+[Windows](https://github.com/vinkdong/timedtext2srt/releases/download/0.1.0/timedtext2srt.exe)
+[Linux](https://github.com/vinkdong/timedtext2srt/releases/download/0.1.0/timedtext2srt-linux)
 
 ## 使用方式
 
